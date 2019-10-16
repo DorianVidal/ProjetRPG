@@ -1469,3 +1469,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.16-10.22.23:208][885]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
 [2019.10.16-10.22.24:571][885]LogSlate: Window 'ProjetRPG_Git - Unreal Editor' being destroyed
 [2019.10.16-10.22.29:691][886]Cmd: QUIT_EDITOR
+[2019.10.16-10.22.34:251][886]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.16-10.22.35:151][886]LogExit: Preparing to exit.
+[2019.10.16-10.22.39:311][886]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.10.16-10.22.39:316][886]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.10.16-10.22.39:320][886]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.10.16-10.22.39:325][886]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.10.16-10.22.39:329][886]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.10.16-10.22.39:333][886]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.10.16-10.22.39:338][886]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.10.16-10.22.39:342][886]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.10.16-10.22.39:347][886]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.10.16-10.22.40:922][886]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.10.16-10.22.43:623][886]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.10.16-10.22.43:624][886]LogExit: Editor shut down
+[2019.10.16-10.22.43:628][886]LogExit: Transaction tracking system shut down
+[2019.10.16-10.22.56:529][886]LogExit: Object subsystem successfully closed.
