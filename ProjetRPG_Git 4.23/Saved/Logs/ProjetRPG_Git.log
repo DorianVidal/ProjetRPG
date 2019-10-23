@@ -2580,6 +2580,7 @@ Make sure 'BP_IA_C' has been compiled for  Patrouille
 [2019.10.16-08.58.37:111][373]LogSavePackage: Moving '../../../../Documents/IUT/2eme Année/Ptut/ProjetRPG/ProjetRPG_Git 4.23/Saved/BP_IA9D052FE9452D618F71F20A811873A768.tmp' to '../../../../Documents/IUT/2eme Année/Ptut/ProjetRPG/ProjetRPG_Git 4.23/Content/BP_IA.uasset'
 [2019.10.16-08.58.46:535][460]BlueprintLog: New page: Compile BP_IA
 [2019.10.16-08.58.46:758][460]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+<<<<<<< HEAD
 [2019.10.16-09.00.46:235][664]LogSlate: FSceneViewport::OnFocusLost() reason 5
 [2019.10.16-09.00.46:255][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_IA" FILE="../../../../Documents/IUT/2eme Année/Ptut/ProjetRPG/ProjetRPG_Git 4.23/Content/BP_IA.uasset" SILENT=true
 [2019.10.16-09.00.46:279][664]LogSavePackage: Moving '../../../../Documents/IUT/2eme Année/Ptut/ProjetRPG/ProjetRPG_Git 4.23/Saved/BP_IA2A23F26D4FED95768AC9BCA9186F6883.tmp' to '../../../../Documents/IUT/2eme Année/Ptut/ProjetRPG/ProjetRPG_Git 4.23/Content/BP_IA.uasset'
@@ -45339,3 +45340,5 @@ Script call stack:
 [2019.10.16-09.47.10:077][287]LogD3D11RHI: ~FD3D11DynamicRHI
 [2019.10.16-09.47.10:087][287]LogExit: Exiting.
 [2019.10.16-09.47.10:105][287]Log file closed, 10/16/19 11:47:10
+=======
+>>>>>>> parent of 5285316... IA Can Hear
