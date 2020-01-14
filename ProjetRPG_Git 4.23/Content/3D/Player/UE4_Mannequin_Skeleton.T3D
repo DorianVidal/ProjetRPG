@@ -1,0 +1,102 @@
+Begin Object Class=/Script/Engine.Skeleton Name="UE4_Mannequin_Skeleton"
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_0"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_1"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_2"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalMeshSocket Name="SkeletalMeshSocket_8"
+   End Object
+   Begin Object Name="SkeletalMeshSocket_0"
+      SocketName="Socket_WeaponHand"
+      BoneName="hand_r"
+      RelativeLocation=(X=-8.413063,Y=7.125162,Z=-7.006042)
+      RelativeRotation=(Pitch=10.623184,Yaw=-5.218508,Roll=-10.767013)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_1"
+      SocketName="Socket_WeaponStart"
+      BoneName="hand_r"
+      RelativeLocation=(X=-17.244354,Y=-0.462494,Z=36.203697)
+      RelativeRotation=(Pitch=19.275837,Yaw=-0.803889,Roll=-5.103663)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_2"
+      SocketName="Socket_WeaponEnd"
+      BoneName="hand_r"
+      RelativeLocation=(X=-36.425236,Y=-16.943890,Z=130.050873)
+      RelativeRotation=(Pitch=10.623184,Yaw=-5.218508,Roll=-10.767013)
+   End Object
+   Begin Object Name="SkeletalMeshSocket_8"
+      SocketName="Socket_WeaponDos"
+      BoneName="spine_03"
+      RelativeLocation=(X=44.851810,Y=-10.794597,Z=19.234905)
+      RelativeRotation=(Pitch=68.564743,Yaw=-175.483185,Roll=173.456223)
+   End Object
+   BoneTree(2)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(3)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(4)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(5)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(6)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(7)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(8)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(9)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(10)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(11)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(12)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(13)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(14)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(15)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(16)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(17)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(18)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(19)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(20)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(21)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(22)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(23)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(24)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(25)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(26)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(27)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(28)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(29)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(30)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(31)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(32)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(33)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(34)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(35)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(36)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(37)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(38)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(39)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(40)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(41)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(42)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(43)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(44)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(45)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(46)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(47)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(48)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(49)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(50)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(51)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(52)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(53)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(54)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(55)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(56)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(57)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(58)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(59)=(TranslationRetargetingMode=Skeleton)
+   BoneTree(60)=(TranslationRetargetingMode=Skeleton)
+   VirtualBoneGuid=40E2EBEE4704A9283F09E793EEAC884F
+   Sockets(0)=SkeletalMeshSocket'"SkeletalMeshSocket_8"'
+   Sockets(1)=SkeletalMeshSocket'"SkeletalMeshSocket_0"'
+   Sockets(2)=SkeletalMeshSocket'"SkeletalMeshSocket_1"'
+   Sockets(3)=SkeletalMeshSocket'"SkeletalMeshSocket_2"'
+   SlotGroups(0)=(SlotNames=("DefaultSlot","Body","All"))
+   PreviewSkeletalMesh=/Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+   AnimationNotifies(0)="ValidateAttack"
+   AnimationNotifies(1)="ResetCombo"
+End Object
