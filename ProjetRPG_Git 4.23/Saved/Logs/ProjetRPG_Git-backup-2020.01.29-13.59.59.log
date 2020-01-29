@@ -1,0 +1,1409 @@
+﻿Log file open, 01/29/20 14:57:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProjetRPG_Git
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.077558
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx  , GPU: AMD Radeon(TM) RX Vega 10 Graphics
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.29-13.57.17:280][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.29-13.57.17:280][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.29-13.57.17:280][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Config/Windows/Engine.ini]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Config/Windows/Engine.ini]
+[2020.01.29-13.57.17:281][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Config/Windows/Engine.ini]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Config/Windows/Engine.ini]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.29-13.57.17:281][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Config/Windows/Engine.ini]
+[2020.01.29-13.57.17:281][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Config/Windows/Engine.ini]
+[2020.01.29-13.57.17:283][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.29-13.57.17:283][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.29-13.57.17:284][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.29-13.57.17:284][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.29-13.57.17:284][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.29-13.57.17:287][  0]LogHAL: Display: Platform has ~ 8 GB [8389935104 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.29-13.57.17:287][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.29-13.57.17:287][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.29-13.57.17:287][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.29-13.57.17:288][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.29-13.57.17:288][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-13.57.17:288][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.29-13.57.17:288][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.29-13.57.17:288][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.29-13.57.17:288][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.29-13.57.17:288][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.29-13.57.17:288][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.29-13.57.17:288][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.29-13.57.17:288][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.29-13.57.17:288][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.29-13.57.17:288][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.29-13.57.17:288][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.29-13.57.17:288][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.29-13.57.17:288][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.29-13.57.17:288][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.01.29-13.57.17:288][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.29-13.57.17:288][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.29-13.57.17:288][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.29-13.57.17:288][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.29-13.57.17:288][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.29-13.57.17:288][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Config/Windows/Engine.ini]
+[2020.01.29-13.57.17:288][  0]LogInit: Computer: PC-CC2
+[2020.01.29-13.57.17:288][  0]LogInit: User: clery
+[2020.01.29-13.57.17:288][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.29-13.57.17:288][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.29-13.57.17:288][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2020.01.29-13.57.17:288][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.29-13.57.17:288][  0]LogMemory: Process Physical Memory: 100.86 MB used, 100.86 MB peak
+[2020.01.29-13.57.17:288][  0]LogMemory: Process Virtual Memory: 100.52 MB used, 100.52 MB peak
+[2020.01.29-13.57.17:288][  0]LogMemory: Physical Memory: 3392.36 MB used,  4608.90 MB free, 8001.27 MB total
+[2020.01.29-13.57.17:288][  0]LogMemory: Virtual Memory: 4682.91 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2020.01.29-13.57.17:291][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.01.29-13.57.17:318][  0]LogInit: Using OS detected language (fr-FR).
+[2020.01.29-13.57.17:318][  0]LogInit: Using OS detected locale (fr-FR).
+[2020.01.29-13.57.17:318][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2020.01.29-13.57.17:319][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2020.01.29-13.57.17:319][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2020.01.29-13.57.17:319][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2020.01.29-13.57.17:319][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2020.01.29-13.57.17:319][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2020.01.29-13.57.17:319][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2020.01.29-13.57.17:320][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2020.01.29-13.57.17:320][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.29-13.57.17:349][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.29-13.57.17:349][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.29-13.57.17:540][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.29-13.57.17:540][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.29-13.57.17:625][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2020.01.29-13.57.17:625][  0]LogD3D11RHI:       2996/0/4000 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.01.29-13.57.17:647][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) RX Vega 10 Graphics' (Feature Level 11_0)
+[2020.01.29-13.57.17:647][  0]LogD3D11RHI:       112/0/4000 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2020.01.29-13.57.17:649][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.29-13.57.17:649][  0]LogD3D11RHI:       0/0/4000 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.29-13.57.17:649][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.29-13.57.17:667][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.29-13.57.17:667][  0]LogD3D11RHI:     GPU DeviceId: 0x1c91 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.29-13.57.17:667][  0]LogWindows: EnumDisplayDevices:
+[2020.01.29-13.57.17:667][  0]LogWindows:    0. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:1 D:1)
+[2020.01.29-13.57.17:667][  0]LogWindows:    1. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:0 D:0)
+[2020.01.29-13.57.17:668][  0]LogWindows:    2. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:0 D:0)
+[2020.01.29-13.57.17:668][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:1)
+[2020.01.29-13.57.17:668][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.01.29-13.57.17:668][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2020.01.29-13.57.17:668][  0]LogD3D11RHI:   Driver Version: 441.87 (internal:26.21.14.4187, unified:441.87)
+[2020.01.29-13.57.17:668][  0]LogD3D11RHI:      Driver Date: 12-24-2019
+[2020.01.29-13.57.17:668][  0]LogRHI: Texture pool is 2097 MB (70% of 2996 MB)
+[2020.01.29-13.57.17:722][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.29-13.57.17:735][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.29-13.57.18:030][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.29-13.57.18:039][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.29-13.57.18:048][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.29-13.57.18:057][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.29-13.57.18:067][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.29-13.57.18:076][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.29-13.57.18:087][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.29-13.57.18:097][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.29-13.57.18:103][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.29-13.57.18:138][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.29-13.57.18:138][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.29-13.57.18:138][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.29-13.57.18:138][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.29-13.57.18:138][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.29-13.57.18:138][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.29-13.57.18:138][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.29-13.57.18:138][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.29-13.57.18:138][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.29-13.57.18:138][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.29-13.57.18:138][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.29-13.57.18:138][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.29-13.57.18:138][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.29-13.57.18:138][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.29-13.57.18:138][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.29-13.57.18:138][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.29-13.57.18:139][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.29-13.57.18:139][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.29-13.57.18:140][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.29-13.57.18:160][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.29-13.57.18:160][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.29-13.57.18:174][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.29-13.57.18:174][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.29-13.57.18:182][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.29-13.57.18:190][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.29-13.57.18:198][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.29-13.57.18:206][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.29-13.57.18:232][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.29-13.57.18:232][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.29-13.57.18:232][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.29-13.57.18:242][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.29-13.57.18:295][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Intermediate/Shaders/WorkingDirectory/18968/).
+[2020.01.29-13.57.18:295][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/clery/AppData/Local/Temp/UnrealShaderWorkingDir/D4014F46410AD5803F99ECAD76326231/'.
+[2020.01.29-13.57.18:298][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.29-13.57.18:298][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.29-13.57.18:298][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.29-13.57.18:919][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.29-13.57.18:977][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/clery/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.29-13.57.18:977][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/clery/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.01.29-13.57.18:977][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.29-13.57.18:977][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.29-13.57.18:977][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.29-13.57.18:977][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.29-13.57.18:990][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.29-13.57.18:990][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.29-13.57.18:990][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.29-13.57.18:991][  0]LogDerivedDataCache: Using Local data cache path C:/Users/clery/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.29-13.57.18:991][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.29-13.57.18:991][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.29-13.57.19:014][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.29-13.57.19:018][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.29-13.57.19:018][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.29-13.57.19:073][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2020.01.29-13.57.19:373][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.29-13.57.19:522][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.29-13.57.19:522][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.29-13.57.19:522][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.29-13.57.19:522][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.29-13.57.19:522][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.29-13.57.19:532][  0]LogNetVersion: ProjetRPG_Git 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 4283081199)
+[2020.01.29-13.57.19:975][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.057621 seconds
+[2020.01.29-13.57.19:985][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.01.29-13.57.19:985][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.01.29-13.57.19:985][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.29-13.57.20:915][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.29-13.57.20:919][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.29-13.57.20:977][  0]SourceControl: Source control is disabled
+[2020.01.29-13.57.20:977][  0]SourceControl: Source control is disabled
+[2020.01.29-13.57.20:979][  0]SourceControl: Source control is disabled
+[2020.01.29-13.57.20:980][  0]SourceControl: Source control is disabled
+[2020.01.29-13.57.21:073][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.29-13.57.21:188][  0]LogOcInput: OculusInput pre-init called
+[2020.01.29-13.57.21:194][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.01.29-13.57.21:195][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.01.29-13.57.21:271][  0]LogEngine: Initializing Engine...
+[2020.01.29-13.57.21:272][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.29-13.57.21:273][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.29-13.57.21:519][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.29-13.57.21:535][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.29-13.57.21:552][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.29-13.57.21:648][  0]LogInit: FAudioDevice initialized.
+[2020.01.29-13.57.21:648][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.29-13.57.21:723][  0]LogDerivedDataCache: Saved boot cache 0.07s 73MB C:/Users/clery/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.29-13.57.21:730][  0]LogInit: Texture streaming: Enabled
+[2020.01.29-13.57.21:753][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.29-13.57.21:753][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.01.29-13.57.21:754][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.01.29-13.57.21:847][  0]LogInit: Transaction tracking system initialized
+[2020.01.29-13.57.21:889][  0]BlueprintLog: New page: Editor Load
+[2020.01.29-13.57.21:988][  0]LocalizationService: Localization service is disabled
+[2020.01.29-13.57.22:264][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.29-13.57.22:264][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.29-13.57.22:483][  0]SourceControl: Source control is disabled
+[2020.01.29-13.57.22:483][  0]Cmd: MAP LOAD FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.29-13.57.22:483][  0]LogEditorServer: Warning: Can't find file 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.29-13.57.22:483][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.29-13.57.22:483][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,107ms to complete.
+[2020.01.29-13.57.22:483][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.000
+[2020.01.29-13.57.22:603][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.29-13.57.22:611][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.29-13.57.22:619][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.29-13.57.22:626][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.29-13.57.22:634][  0]LogCollectionManager: Loaded 0 collections in 0.001902 seconds
+[2020.01.29-13.57.22:640][  0]LogFileCache: Scanning file cache for directory 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Collections/' took 0.00s
+[2020.01.29-13.57.22:640][  0]LogFileCache: Scanning file cache for directory 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Developers/clery/Collections/' took 0.00s
+[2020.01.29-13.57.22:640][  0]LogFileCache: Scanning file cache for directory 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Collections/' took 0.00s
+[2020.01.29-13.57.22:640][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.01.29-13.57.22:649][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2863 classes and 680 folders.
+[2020.01.29-13.57.22:656][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.29-13.57.22:693][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.29-13.57.22:699][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.01.29-13.57.22:758][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.29-13.57.22:762][  0]LogSlate: Took 0.000331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.29-13.57.22:765][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.29-13.57.22:820][  0]LogRenderer: Reallocating scene render targets to support 1480x640 Format 10 NumSamples 1 (Frame:1).
+[2020.01.29-13.57.22:923][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.29-13.57.22:923][  0]LogLoad: (Engine Initialization) Total time: 6.81 seconds
+[2020.01.29-13.57.22:923][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.29-13.57.22:992][  0]LogAssetRegistry: Asset discovery search completed in 3.9199 seconds
+[2020.01.29-13.57.22:998][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000010 seconds (found 0 objects)
+[2020.01.29-13.57.22:998][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000111 seconds (updated 0 objects)
+[2020.01.29-13.57.22:999][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.29-13.57.31:229][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.29-13.57.32:234][212]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.29-13.57.32:658][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Blendspace Player 'ThirdPerson_IdleRunArmed_1D'  references blendspace that uses different skeleton  perso_Skeleton
+[2020.01.29-13.57.32:658][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Play ThirdPersonJumpArmed_Start  references sequence that uses different skeleton  perso_Skeleton
+[2020.01.29-13.57.32:659][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Play ThirdPersonJumpArmed_Loop  references sequence that uses different skeleton  perso_Skeleton
+[2020.01.29-13.57.32:659][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Play ThirdPersonJumpArmed_End  references sequence that uses different skeleton  perso_Skeleton
+[2020.01.29-13.57.32:660][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Blendspace Player 'ThirdPerson_IdleRun_1D'  references blendspace that uses different skeleton  perso_Skeleton
+[2020.01.29-13.57.32:661][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Play ThirdPersonJump_Start  references sequence that uses different skeleton  perso_Skeleton
+[2020.01.29-13.57.32:661][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Play ThirdPersonJump_Loop  references sequence that uses different skeleton  perso_Skeleton
+[2020.01.29-13.57.32:661][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Play ThirdPersonJump_End  references sequence that uses different skeleton  perso_Skeleton
+[2020.01.29-13.57.32:662][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] ICE: Player node  Play ThirdPersonJump_Start  was not processed prior to handling a transition getter  ThirdPersonJump_Start Asset  that used it
+[2020.01.29-13.57.32:663][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] ICE: Player node  Play ThirdPersonJump_End  was not processed prior to handling a transition getter  ThirdPersonJump_End Asset  that used it
+[2020.01.29-13.57.32:663][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Missing allocated node for AnimGraphNode_BlendSpacePlayer_2 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.29-13.57.32:663][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.29-13.57.32:663][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.29-13.57.32:663][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.29-13.57.32:663][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Missing allocated node for AnimGraphNode_BlendSpacePlayer_9 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.29-13.57.32:663][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_34 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.29-13.57.32:663][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_40 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.29-13.57.32:663][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_46 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.29-13.57.32:663][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Missing allocated node for AnimGraphNode_BlendSpacePlayer_2 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.29-13.57.32:663][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.29-13.57.32:664][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.29-13.57.32:664][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.29-13.57.32:664][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Missing allocated node for AnimGraphNode_BlendSpacePlayer_9 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.29-13.57.32:664][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_34 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.29-13.57.32:664][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_40 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.29-13.57.32:664][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_46 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.29-13.57.32:664][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Missing allocated node for AnimGraphNode_BlendSpacePlayer_2 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.29-13.57.32:664][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.29-13.57.32:664][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.29-13.57.32:664][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.29-13.57.32:664][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Missing allocated node for AnimGraphNode_BlendSpacePlayer_9 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.29-13.57.32:664][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_34 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.29-13.57.32:664][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_40 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.29-13.57.32:664][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_46 while searching for node links - likely due to the node having outstanding errors.
+[2020.01.29-13.57.32:666][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  ThirdPersonJump_Start Asset
+[2020.01.29-13.57.32:666][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  ThirdPersonJump_End Asset
+[2020.01.29-13.57.32:688][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  ThirdPersonJump_End Asset
+[2020.01.29-13.57.32:688][212]LogBlueprint: Error: [Compiler Ennemy_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  ThirdPersonJump_Start Asset
+[2020.01.29-13.57.32:769][212]LogLinker: Warning: While loading 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Blueprints/Door.uasset' failed to load '/Game/Chicken/white': Can't find file.
+[2020.01.29-13.57.32:769][212]LogLinker: Warning: While loading 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Blueprints/Door.uasset' failed to load '/Game/Chicken/white': Can't find file.
+[2020.01.29-13.57.32:770][212]LogLinker: Warning: While loading 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Blueprints/Door.uasset' failed to load '/Game/Chicken/white': Can't find file.
+[2020.01.29-13.57.32:770][212]LogLinker: Warning: While loading 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Blueprints/Door.uasset' failed to load '/Game/Chicken/white': Can't find file.
+[2020.01.29-13.57.32:770][212]LogLinker: Warning: While loading 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/Chicken/white': Can't find file.
+[2020.01.29-13.57.32:770][212]LogLinker: Warning: While loading 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/Chicken/white': Can't find file.
+[2020.01.29-13.57.32:770][212]LogLinker: Warning: While loading 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/Chicken/white': Can't find file.
+[2020.01.29-13.57.32:771][212]LogLinker: Warning: While loading 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/Chicken/white': Can't find file.
+[2020.01.29-13.57.32:771][212]LogLinker: Warning: While loading 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/Chicken/white': Can't find file.
+[2020.01.29-13.57.32:771][212]LoadErrors: Failed to load /Game/Chicken/white.white Referenced by A_GEN_VARIABLE
+[2020.01.29-13.57.32:771][212]LogLinker: Warning: While loading 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/Chicken/white': Can't find file.
+[2020.01.29-13.57.32:772][212]LogLinker: Warning: While loading 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/Chicken/white': Can't find file.
+[2020.01.29-13.57.32:772][212]LoadErrors: Failed to load /Game/Chicken/white.white Referenced by B_GEN_VARIABLE
+[2020.01.29-13.57.32:772][212]LogLinker: Warning: While loading 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/Chicken/white': Can't find file.
+[2020.01.29-13.57.32:967][212]LogStaticMesh: Building static mesh custom_plane...
+[2020.01.29-13.57.32:990][212]LogStaticMesh: Built static mesh [0.02s] /Game/3D/Material/custom_plane.custom_plane
+[2020.01.29-13.57.33:409][212]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.29-13.57.33:455][212]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.01.29-13.57.33:497][212]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.01.29-13.57.33:498][212]Cmd: MAP LOAD FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.29-13.57.33:498][212]LightingResults: New page: Lighting Build
+[2020.01.29-13.57.33:501][212]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2020.01.29-13.57.33:502][212]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2020.01.29-13.57.33:502][212]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.01.29-13.57.33:503][212]MapCheck: New page: Map Check
+[2020.01.29-13.57.33:503][212]LightingResults: New page: Lighting Build
+[2020.01.29-13.57.33:527][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.01.29-13.57.33:669][212]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.29-13.57.33:698][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.01.29-13.57.33:756][212]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.29-13.57.33:756][212]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,146ms to complete.
+[2020.01.29-13.57.33:756][212]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.259
+[2020.01.29-13.57.36:783][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.29-13.57.43:778][718]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.01.29-13.57.58:266][582]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2020.01.29-13.57.58:266][582]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2020.01.29-13.57.58:266][582]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2020.01.29-13.58.17:824][741]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.29-13.58.17:828][741]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.29-13.58.19:201][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ThirdPersonExampleMap" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Maps/ThirdPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.29-13.58.19:225][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.01.29-13.58.19:532][821]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPersonExampleMap5F4D1B2B48FACFFAD9C702BA4F9CD772.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Maps/ThirdPersonExampleMap.umap'
+[2020.01.29-13.58.19:596][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ThirdPersonExampleMap_BuiltData" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.01.29-13.58.19:636][821]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPersonExampleMap_BuiltData99BC86E24F1E25092EFF2CAD5E2BCFCA.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.01.29-13.58.27:115][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.29-13.58.36:090][779]LogMaterial: Display: Missing cached shader map for material or, compiling. 
+[2020.01.29-13.58.36:142][779]LogMaterial: Display: Missing cached shader map for material manche, compiling. 
+[2020.01.29-13.58.36:158][779]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.01.29-13.58.36:158][779]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.01.29-13.58.36:158][779]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.01.29-13.58.36:158][779]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.01.29-13.58.36:158][779]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.01.29-13.58.36:173][779]LogStaticMesh: Building static mesh Sword...
+[2020.01.29-13.58.36:197][779]LogStaticMesh: Built static mesh [0.02s] /Game/Weapon/Sword/Sword.Sword
+[2020.01.29-13.58.36:220][779]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Weapon/Sword/Sword.Sword
+[2020.01.29-13.58.38:443][833]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 44
+[2020.01.29-13.58.38:541][838]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2020.01.29-13.58.39:558][886]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.01.29-13.58.41:013][954]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2020.01.29-13.58.42:748][ 37]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.01.29-13.58.42:791][ 39]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.01.29-13.58.42:830][ 41]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.01.29-13.58.44:455][115]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.01.29-13.58.45:293][144]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.01.29-13.58.45:744][161]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.01.29-13.58.45:800][162]LogRenderer: Reallocating scene render targets to support 1480x960 Format 10 NumSamples 1 (Frame:385).
+[2020.01.29-13.58.45:800][162]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.29-13.58.45:960][169]LogSlate: Window 'Sword' being destroyed
+[2020.01.29-13.58.48:154][298]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.01.29-13.58.49:113][347]LogAssetEditorManager: Opening Asset editor for Material /Game/Weapon/Sword/lambert1.lambert1
+[2020.01.29-13.58.49:118][347]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.01.29-13.58.49:253][347]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.01.29-13.58.49:270][347]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.01.29-13.58.49:291][347]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.01.29-13.58.49:291][347]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.01.29-13.58.49:291][347]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.01.29-13.58.49:291][347]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.01.29-13.58.49:295][347]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.01.29-13.58.49:396][347]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.29-13.58.49:710][353]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.01.29-13.58.49:710][353]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.01.29-13.58.49:730][354]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.01.29-13.58.49:748][355]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.01.29-13.58.49:985][365]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.01.29-13.58.50:107][370]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.01.29-13.58.50:160][372]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.01.29-13.58.50:160][372]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.01.29-13.58.50:375][381]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.01.29-13.58.50:685][393]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.01.29-13.58.51:006][404]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.01.29-13.58.51:012][404]LogSlate: Window 'lambert1' being destroyed
+[2020.01.29-13.58.51:140][411]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.01.29-13.58.51:293][420]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.01.29-13.58.51:513][433]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.01.29-13.58.51:639][440]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.01.29-13.58.51:979][460]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.01.29-13.58.52:042][464]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.01.29-13.58.52:155][465]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.01.29-13.59.12:518][661]LogMetaData: Removing '/Game/Player/Character/Mesh/perso_Skeleton.perso_Skeleton' ref from Metadata '/Game/Mannequin/Character/Mesh/perso_Skeleton.PackageMetaData'
+[2020.01.29-13.59.12:682][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:682][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter:AddItem.K2Node_FunctionEntry_0' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:682][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter:AnimBP.K2Node_Tunnel_0' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:682][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter:AnimBP.K2Node_Tunnel_1' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter:Cooldown.K2Node_FunctionEntry_0' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter:EnduranceManagement.K2Node_FunctionEntry_0' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter:gestionEndurance.K2Node_FunctionEntry_0' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter:InformationTimer.K2Node_FunctionEntry_0' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter:LifeManagement.K2Node_FunctionEntry_0' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter:LoadInventory.K2Node_FunctionEntry_0' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter:Pick_Item.K2Node_FunctionEntry_0' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ReceiveTick' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:OnLanded' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ReceiveAnyDamage' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:EnnemyDamageDid' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:EnnemyDamage' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:CooldownAttack2' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:Damage' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:CanAttack' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:IsRoll' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:DamageDid' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:Pangolin' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:WidgetIsAdd' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:CanMove' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:vitesseMax' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:RefDialogueWidget' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:Attacks' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:AtkCount' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InTransition' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:CanEquip' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:Armed' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:TimerEndurance' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:enduranceMax' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:endurance' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:TempsTimer' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:UI_InformationRef' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:EstConsommé' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ItemStructRef' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:vieMax' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:vie' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:683][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:UI_BagRef' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:inventaire' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:BaseLookUpRate' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:BaseTurnRate' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:CameraBoom' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:FollowCamera' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:WeaponMesh' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:PawnNoiseEmitter' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:AIPerceptionStimuliSource' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:Pick_Item' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:AddItem.ItemFound?' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:AddItem' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:LoadInventory' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:LifeManagement' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InformationTimer' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:gestionEndurance' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:EnduranceManagement' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:Cooldown' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:EnnemyDamageDid' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:EnnemyDamage' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:CooldownAttack2' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:Damage' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:CanAttack' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:IsRoll' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:DamageDid' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:Pangolin' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:WidgetIsAdd' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:CanMove' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:vitesseMax' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:RefDialogueWidget' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:Attacks' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:AtkCount' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:InTransition' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:CanEquip' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:Armed' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:TimerEndurance' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:enduranceMax' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:endurance' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:TempsTimer' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:UI_InformationRef' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:EstConsommé' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:ItemStructRef' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:vieMax' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:vie' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:UI_BagRef' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:inventaire' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:BaseLookUpRate' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:BaseTurnRate' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:CameraBoom' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:FollowCamera' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:684][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:WeaponMesh' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:PawnNoiseEmitter' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:AIPerceptionStimuliSource' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveTick' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveAnyDamage' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnLanded' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnCompleted_D79C8D534579E2FA33994484AE1BFA11' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnBlendOut_D79C8D534579E2FA33994484AE1BFA11' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnInterrupted_D79C8D534579E2FA33994484AE1BFA11' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnNotifyBegin_D79C8D534579E2FA33994484AE1BFA11' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnNotifyEnd_D79C8D534579E2FA33994484AE1BFA11' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnCompleted_6C30DED049E64493C51366A8CE59E65B' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnBlendOut_6C30DED049E64493C51366A8CE59E65B' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnInterrupted_6C30DED049E64493C51366A8CE59E65B' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnNotifyBegin_6C30DED049E64493C51366A8CE59E65B' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnNotifyEnd_6C30DED049E64493C51366A8CE59E65B' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnCompleted_8561BB1C4DBAB811A811898B05424F3A' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnBlendOut_8561BB1C4DBAB811A811898B05424F3A' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnInterrupted_8561BB1C4DBAB811A811898B05424F3A' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnNotifyBegin_8561BB1C4DBAB811A811898B05424F3A' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnNotifyEnd_8561BB1C4DBAB811A811898B05424F3A' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnCompleted_342390C445EDBA59469122AA31B03D72' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnBlendOut_342390C445EDBA59469122AA31B03D72' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnInterrupted_342390C445EDBA59469122AA31B03D72' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnNotifyBegin_342390C445EDBA59469122AA31B03D72' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnNotifyEnd_342390C445EDBA59469122AA31B03D72' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnCompleted_74B009134DDEF077103E14A685CE2D6C' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnBlendOut_74B009134DDEF077103E14A685CE2D6C' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnInterrupted_74B009134DDEF077103E14A685CE2D6C' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnNotifyBegin_74B009134DDEF077103E14A685CE2D6C' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnNotifyEnd_74B009134DDEF077103E14A685CE2D6C' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnCompleted_449DC5794990FEAFACFC29A3F176D112' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnBlendOut_449DC5794990FEAFACFC29A3F176D112' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnInterrupted_449DC5794990FEAFACFC29A3F176D112' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnNotifyBegin_449DC5794990FEAFACFC29A3F176D112' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:OnNotifyEnd_449DC5794990FEAFACFC29A3F176D112' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:Pick_Item' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:AddItem' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:LoadInventory' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:LifeManagement' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:InformationTimer' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:gestionEndurance' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:EnduranceManagement' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:Cooldown' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:685][661]LogMetaData: Removing '/Game/Player/ThirdPersonCharacter.ThirdPersonCharacter_C:AddItem.ItemFound?' ref from Metadata '/Game/Mannequin/ThirdPersonCharacter.PackageMetaData'
+[2020.01.29-13.59.12:713][661]LogMetaData: Removing '/Game/Player/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.01.29-13.59.12:713][661]LogMetaData: Removing '/Game/Player/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.01.29-13.59.12:713][661]LogMetaData: Removing '/Game/Player/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:ArmedAnim' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.01.29-13.59.12:713][661]LogMetaData: Removing '/Game/Player/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.01.29-13.59.12:713][661]LogMetaData: Removing '/Game/Player/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.01.29-13.59.12:713][661]LogMetaData: Removing '/Game/Player/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.01.29-13.59.12:713][661]LogMetaData: Removing '/Game/Player/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.01.29-13.59.12:713][661]LogMetaData: Removing '/Game/Player/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ArmedAnim' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.01.29-13.59.12:713][661]LogMetaData: Removing '/Game/Player/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.01.29-13.59.12:713][661]LogMetaData: Removing '/Game/Player/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.01.29-13.59.12:713][661]LogMetaData: Removing '/Game/Player/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.01.29-13.59.12:714][661]LogMetaData: Removing '/Game/Player/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2020.01.29-13.59.12:872][661]LogMetaData: Removing '/Game/Player/Character/Mesh/perso.perso' ref from Metadata '/Game/Mannequin/Character/Mesh/perso.PackageMetaData'
+[2020.01.29-13.59.13:215][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Character/Mesh/perso_Skeleton" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Mesh/perso_Skeleton.uasset" SILENT=true
+[2020.01.29-13.59.13:224][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/perso_Skeleton423B18D34439D425B4A9F0B109621D42.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Mesh/perso_Skeleton.uasset'
+[2020.01.29-13.59.13:305][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPersonJumpArmed_EndD072992640C77A4AB80369A12F121F93.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Movement/Armed/ThirdPersonJumpArmed_End.uasset'
+[2020.01.29-13.59.13:369][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPersonJumpArmed_LoopFCC42CA84EE3CB6A0C78C38F79A26FA1.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Movement/Armed/ThirdPersonJumpArmed_Loop.uasset'
+[2020.01.29-13.59.13:423][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPersonJumpArmed_Start168448DA4CCDCEB2B30B8DBD67CBE16B.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Movement/Armed/ThirdPersonJumpArmed_Start.uasset'
+[2020.01.29-13.59.13:457][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPersonJump_End311AF03D4B9FFD8375B732B81BAD6CBC.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Movement/Unarmed/ThirdPersonJump_End.uasset'
+[2020.01.29-13.59.13:489][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPersonJump_Loop3992F3234651DD1464BA8487ACBF89BD.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Movement/Unarmed/ThirdPersonJump_Loop.uasset'
+[2020.01.29-13.59.13:524][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPersonJump_Start20D0BF4446DCD3DF60ADAFA6E05B2F59.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Movement/Unarmed/ThirdPersonJump_Start.uasset'
+[2020.01.29-13.59.13:563][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPerson_IdleArmed7C460716491D258CFDCCB0B306411A3D.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Movement/Armed/ThirdPerson_IdleArmed.uasset'
+[2020.01.29-13.59.13:636][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPerson_Run2Armed6DD866694686A9957F1D34A2B0FF6D70.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Movement/Armed/ThirdPerson_Run2Armed.uasset'
+[2020.01.29-13.59.13:669][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPerson_RunArmedA3EDB78A4664E05D717FA0A976552CBB.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Movement/Armed/ThirdPerson_RunArmed.uasset'
+[2020.01.29-13.59.13:707][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPerson_WalkArmedAA9C2E434DF87425EDB587A3C402A5CC.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Movement/Armed/ThirdPerson_WalkArmed.uasset'
+[2020.01.29-13.59.13:750][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPerson_IdleRunArmed_1DD5F16BC54757BA7B27160BA8D6E809EA.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Movement/Armed/ThirdPerson_IdleRunArmed_1D.uasset'
+[2020.01.29-13.59.13:796][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPerson_Idle1528E31942242D222EC6759A840F3D6A.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Movement/Unarmed/ThirdPerson_Idle.uasset'
+[2020.01.29-13.59.13:828][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPerson_Run287822A841440FA12B9029994582D516.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Movement/Unarmed/ThirdPerson_Run.uasset'
+[2020.01.29-13.59.13:870][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPerson_Run2C1D7965F49F58BD5E0F29290632B29CF.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Movement/Unarmed/ThirdPerson_Run2.uasset'
+[2020.01.29-13.59.13:903][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPerson_WalkB3664A804822ACF0ADE64DB3AB75640C.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Movement/Unarmed/ThirdPerson_Walk.uasset'
+[2020.01.29-13.59.13:936][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPerson_IdleRun_1D4633C40348EB709BECCB0183CFA263F4.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Movement/Unarmed/ThirdPerson_IdleRun_1D.uasset'
+[2020.01.29-13.59.13:955][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/ThirdPersonCharacter" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/ThirdPersonCharacter.uasset" SILENT=true
+[2020.01.29-13.59.14:246][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPersonCharacter3693AD2942823F9778F531ADF5703D8D.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/ThirdPersonCharacter.uasset'
+[2020.01.29-13.59.14:254][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/ThirdPersonCharacter" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Mannequin/ThirdPersonCharacter.uasset" SILENT=true
+[2020.01.29-13.59.14:270][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPersonCharacter4FC40FCA40D9DE8C8D1FED82B62F79C0.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Mannequin/ThirdPersonCharacter.uasset'
+[2020.01.29-13.59.14:331][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Animations/ThirdPerson_AnimBP" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/ThirdPerson_AnimBP.uasset" SILENT=true
+[2020.01.29-13.59.14:430][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPerson_AnimBP09775B8F483EF2EB789591BDFE4BD604.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/ThirdPerson_AnimBP.uasset'
+[2020.01.29-13.59.14:442][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Character/Textures/Texturebis" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Textures/Texturebis.uasset" SILENT=true
+[2020.01.29-13.59.14:461][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Texturebis2500A7734AF5DF73569767A881A54335.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Textures/Texturebis.uasset'
+[2020.01.29-13.59.14:503][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Character/Materials/lambert10" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Materials/lambert10.uasset" SILENT=true
+[2020.01.29-13.59.14:523][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/lambert10AEF455564A19C8201AF053A292842A24.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Materials/lambert10.uasset'
+[2020.01.29-13.59.14:579][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Character/Mesh/perso_PhysicsAsset" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Mesh/perso_PhysicsAsset.uasset" SILENT=true
+[2020.01.29-13.59.14:599][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/perso_PhysicsAsset93CB38A1450F8E8DF2EF1CBBFA48A11B.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Mesh/perso_PhysicsAsset.uasset'
+[2020.01.29-13.59.14:655][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Character/Mesh/perso" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Mesh/perso.uasset" SILENT=true
+[2020.01.29-13.59.14:685][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/persoDE7D0CE3465C5E64321221BC2334689D.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Mesh/perso.uasset'
+[2020.01.29-13.59.14:729][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/T_ML_Rubber_Blue_01_D03462CFF4038001B93FB849341DFCA75.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2020.01.29-13.59.14:760][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/T_ML_Rubber_Blue_01_N71447E4B4A666DE80E8880BB2F0B07D6.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2020.01.29-13.59.14:780][661]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.01.29-13.59.14:829][661]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2020.01.29-13.59.14:829][661]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2020.01.29-13.59.14:829][661]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2020.01.29-13.59.14:829][661]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.01.29-13.59.14:920][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ML_GlossyBlack_Latex_UE412379E9F4FC43C89887E07BA5A9FF853.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2020.01.29-13.59.14:931][661]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.01.29-13.59.15:035][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ML_Plastic_Shiny_Beige0C3DCE9B452E6A1BF95525AEAF7D2CF0.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2020.01.29-13.59.15:057][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Character/Textures/UE4_LOGO_CARD" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Textures/UE4_LOGO_CARD.uasset" SILENT=true
+[2020.01.29-13.59.15:083][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/UE4_LOGO_CARDFEA1B01E4AEF80BCBDE3EB9F97BEEE38.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Textures/UE4_LOGO_CARD.uasset'
+[2020.01.29-13.59.15:106][661]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2020.01.29-13.59.15:300][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ML_Plastic_Shiny_Beige_LOGOA62D6D5940ACA739DD05D59EF70A1ECF.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2020.01.29-13.59.15:360][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/T_ML_Aluminum01F2BC5CF04B3F57B15188999563E89480.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2020.01.29-13.59.15:408][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/T_ML_Aluminum01_N97E08C2B43930A5D3AD695910CA9DA09.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2020.01.29-13.59.15:435][661]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2020.01.29-13.59.15:557][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ML_SoftMetal_UE4B27C6AB04739D8365DAEB4A8B9A207A3.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2020.01.29-13.59.15:694][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/UE4_Mannequin__normalsB33D7B7E401532C8D7BD7C9B02A82E41.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Textures/UE4_Mannequin__normals.uasset'
+[2020.01.29-13.59.15:747][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/UE4_Mannequin_MAT_MASKA95F48A664112EC70012999B25D64E778.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset'
+[2020.01.29-13.59.15:809][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Character/Materials/M_UE4Man_Body" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Materials/M_UE4Man_Body.uasset" SILENT=true
+[2020.01.29-13.59.15:843][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/M_UE4Man_Body6901879B4DDBE1A0B7AEF99F9C230E3E.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Materials/M_UE4Man_Body.uasset'
+[2020.01.29-13.59.15:861][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Character/Textures/UE4Man_Logo_N" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Textures/UE4Man_Logo_N.uasset" SILENT=true
+[2020.01.29-13.59.15:890][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/UE4Man_Logo_N63FC6A30411A97B5C938C2902F1E21EF.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Textures/UE4Man_Logo_N.uasset'
+[2020.01.29-13.59.15:976][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/M_UE4Man_ChestLogo2B0C78664C520EF95AB41B9635CF4553.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Materials/M_UE4Man_ChestLogo.uasset'
+[2020.01.29-13.59.16:056][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/SK_Mannequin_PhysicsAssetE4CAAF7247160DAA4731C4B5E12BE8B3.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset'
+[2020.01.29-13.59.16:084][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/UE4_Mannequin_Skeleton910FC8C9422EAAC5E1EF24B9B085591E.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2020.01.29-13.59.16:135][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Character/Mesh/SK_Mannequin" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Mesh/SK_Mannequin.uasset" SILENT=true
+[2020.01.29-13.59.16:315][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/SK_MannequinD54089524D69272ACE4817AA4EDF5D38.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Character/Mesh/SK_Mannequin.uasset'
+[2020.01.29-13.59.16:371][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Animations/Attack/Attack_01" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Attack/Attack_01.uasset" SILENT=true
+[2020.01.29-13.59.16:421][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Attack_010889BDE340D3F919A7CFC1B1115DA294.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Attack/Attack_01.uasset'
+[2020.01.29-13.59.16:469][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Animations/Attack/Attack_01_Montage" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Attack/Attack_01_Montage.uasset" SILENT=true
+[2020.01.29-13.59.16:495][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Attack_01_MontageBD5376854C1C1155C3FEB6899093984E.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Attack/Attack_01_Montage.uasset'
+[2020.01.29-13.59.16:551][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Animations/Attack/Attack_02" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Attack/Attack_02.uasset" SILENT=true
+[2020.01.29-13.59.16:578][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Attack_02F712283C4F3BA6358D4016BEFD74882E.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Attack/Attack_02.uasset'
+[2020.01.29-13.59.16:627][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Animations/Attack/Attack_02_Montage" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Attack/Attack_02_Montage.uasset" SILENT=true
+[2020.01.29-13.59.16:657][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Attack_02_Montage5B81AFB64FBEE63D26B435A716A14EEB.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Attack/Attack_02_Montage.uasset'
+[2020.01.29-13.59.16:708][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Animations/Attack/Attack_03" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Attack/Attack_03.uasset" SILENT=true
+[2020.01.29-13.59.16:744][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Attack_03A8F5E5074AF188700AD8B1ABB649ACC4.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Attack/Attack_03.uasset'
+[2020.01.29-13.59.16:802][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Animations/Attack/Attack_03_Montage" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Attack/Attack_03_Montage.uasset" SILENT=true
+[2020.01.29-13.59.16:838][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Attack_03_Montage4840F2284A0339E4625C22B0B15384F7.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Attack/Attack_03_Montage.uasset'
+[2020.01.29-13.59.16:886][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Animations/Attack/Attack_04" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Attack/Attack_04.uasset" SILENT=true
+[2020.01.29-13.59.16:914][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Attack_04A4BD45934FF7DC77F30542B8102F50C8.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Attack/Attack_04.uasset'
+[2020.01.29-13.59.16:964][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Animations/Attack/Attack_04_Montage" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Attack/Attack_04_Montage.uasset" SILENT=true
+[2020.01.29-13.59.16:992][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Attack_04_Montage04931F86459CEC5E4A6497AC3E8236BF.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Attack/Attack_04_Montage.uasset'
+[2020.01.29-13.59.17:039][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Animations/Attack/Attack_05" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Attack/Attack_05.uasset" SILENT=true
+[2020.01.29-13.59.17:067][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Attack_057B65FBBA4E6D7A1CA200479E2D977519.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Attack/Attack_05.uasset'
+[2020.01.29-13.59.17:121][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Animations/Attack/Attack_05_Montage" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Attack/Attack_05_Montage.uasset" SILENT=true
+[2020.01.29-13.59.17:145][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Attack_05_Montage33606ADF48185A88D0A90C9587251AAD.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Attack/Attack_05_Montage.uasset'
+[2020.01.29-13.59.17:190][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Animations/Equip_Unequip/Equip" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Equip_Unequip/Equip.uasset" SILENT=true
+[2020.01.29-13.59.17:224][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Equip914CFF844F5E5D6DA92299B10CB1621F.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Equip_Unequip/Equip.uasset'
+[2020.01.29-13.59.17:295][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Equip_Montage867C637F410D567B0C9A1E8C51F175C3.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Equip_Unequip/Equip_Montage.uasset'
+[2020.01.29-13.59.17:340][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Animations/Equip_Unequip/Unequip" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Equip_Unequip/Unequip.uasset" SILENT=true
+[2020.01.29-13.59.17:367][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Unequip236D391F467EFF2FEDAD6C8097CD55C6.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Equip_Unequip/Unequip.uasset'
+[2020.01.29-13.59.17:443][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Unequip_MontageBA1C1EE4457980D32CD295A3CC7C6605.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Equip_Unequip/Unequip_Montage.uasset'
+[2020.01.29-13.59.17:532][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPerson_JumpB9C5E6D1485BB4DCBDAB56932F7E56D7.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Movement/Unarmed/ThirdPerson_Jump.uasset'
+[2020.01.29-13.59.17:580][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Animations/Roll/Roll" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Roll/Roll.uasset" SILENT=true
+[2020.01.29-13.59.17:605][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/RollFCF3AB4B490B1F4CC8B37D8C4BFCA5E5.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/Animations/Roll/Roll.uasset'
+[2020.01.29-13.59.17:608][661]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 132
+[2020.01.29-13.59.17:879][661]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 122
+[2020.01.29-13.59.18:174][661]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 112
+[2020.01.29-13.59.20:262][661]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 102
+[2020.01.29-13.59.20:262][661]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 92
+[2020.01.29-13.59.20:262][661]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 82
+[2020.01.29-13.59.20:797][661]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 72
+[2020.01.29-13.59.22:913][661]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 62
+[2020.01.29-13.59.23:179][661]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 52
+[2020.01.29-13.59.23:474][661]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2020.01.29-13.59.25:134][661]LogUObjectHash: Compacting FUObjectHashTables data took   6.87ms
+[2020.01.29-13.59.25:163][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.01.29-13.59.25:191][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.01.29-13.59.25:220][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.01.29-13.59.25:249][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.01.29-13.59.25:276][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.01.29-13.59.25:302][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.01.29-13.59.25:344][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.01.29-13.59.25:372][661]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2020.01.29-13.59.25:372][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.01.29-13.59.25:402][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.01.29-13.59.25:428][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.01.29-13.59.25:454][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.01.29-13.59.25:480][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.01.29-13.59.25:507][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.01.29-13.59.25:537][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.01.29-13.59.25:568][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.01.29-13.59.25:595][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.01.29-13.59.25:622][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.01.29-13.59.25:650][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.01.29-13.59.25:683][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.01.29-13.59.25:709][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.01.29-13.59.25:746][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.01.29-13.59.25:775][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.01.29-13.59.25:801][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.01.29-13.59.25:827][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.01.29-13.59.25:853][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.01.29-13.59.25:877][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.01.29-13.59.25:902][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.01.29-13.59.25:932][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.01.29-13.59.25:965][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.01.29-13.59.25:989][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.01.29-13.59.26:015][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.01.29-13.59.26:042][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.01.29-13.59.26:068][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.01.29-13.59.26:097][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.01.29-13.59.26:125][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.01.29-13.59.26:155][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.01.29-13.59.26:190][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.01.29-13.59.26:221][661]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2020.01.29-13.59.26:250][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.01.29-13.59.26:275][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.01.29-13.59.26:300][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.01.29-13.59.26:326][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.01.29-13.59.26:352][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.01.29-13.59.26:377][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.01.29-13.59.26:405][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.01.29-13.59.26:427][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.01.29-13.59.26:455][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.01.29-13.59.26:483][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.01.29-13.59.26:508][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.01.29-13.59.26:542][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.01.29-13.59.26:574][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.01.29-13.59.26:604][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.01.29-13.59.26:638][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.01.29-13.59.26:671][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.01.29-13.59.26:712][661]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2020.01.29-13.59.26:743][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.01.29-13.59.26:871][661]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2020.01.29-13.59.26:879][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ennemy/Animations/Ennemy_AnimBP" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Ennemy/Animations/Ennemy_AnimBP.uasset" SILENT=true
+[2020.01.29-13.59.27:056][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Ennemy_AnimBPA55D5D0C4B6B68B2DED72BAD6302C14B.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Ennemy/Animations/Ennemy_AnimBP.uasset'
+[2020.01.29-13.59.27:131][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_AI" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Blueprints/BP_AI.uasset" SILENT=true
+[2020.01.29-13.59.27:219][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/BP_AIDF8C2D5E4DF649DC757035990F59F7EA.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Blueprints/BP_AI.uasset'
+[2020.01.29-13.59.27:329][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pangolin_Blueprint" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Blueprints/Pangolin_Blueprint.uasset" SILENT=true
+[2020.01.29-13.59.27:448][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Pangolin_Blueprint0A2A862D4122DB79E20C39B74CF2232F.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Blueprints/Pangolin_Blueprint.uasset'
+[2020.01.29-13.59.27:510][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ennemy/Animations/HitReact/Hit_React" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Ennemy/Animations/HitReact/Hit_React.uasset" SILENT=true
+[2020.01.29-13.59.27:569][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Hit_ReactD6DBA10241DCDE273641F6A0183DD683.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Ennemy/Animations/HitReact/Hit_React.uasset'
+[2020.01.29-13.59.27:680][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Hit_React_Montage46971B39447C33302EA932BCF9814C91.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Ennemy/Animations/HitReact/Hit_React_Montage.uasset'
+[2020.01.29-13.59.27:752][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ennemy/StandardEnnemy" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Ennemy/StandardEnnemy.uasset" SILENT=true
+[2020.01.29-13.59.27:886][661]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/StandardEnnemy2DC48E3546628AF46E3B82A3317DD368.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Ennemy/StandardEnnemy.uasset'
+[2020.01.29-13.59.28:917][662]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.01.29-13.59.28:918][662]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.01.29-13.59.28:918][662]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.01.29-13.59.28:918][662]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.01.29-13.59.30:190][663]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.01.29-13.59.30:190][663]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.01.29-13.59.30:234][665]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.01.29-13.59.38:511][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.01.29-13.59.39:092][148]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.29-13.59.40:840][148]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.29-13.59.41:192][148]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Mannequin/ThirdPersonCharacter.ThirdPersonCharacter
+	Asset Name: /Game/Mannequin/ThirdPersonCharacter.Default__ThirdPersonCharacter_C
+	Asset Name: /Game/Mannequin/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2020.01.29-13.59.42:045][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.01.29-13.59.45:981][376]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/ThirdPersonCharacter.ThirdPersonCharacter'
+[2020.01.29-13.59.52:521][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ThirdPersonExampleMap" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Maps/ThirdPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.29-13.59.52:544][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.01.29-13.59.52:843][461]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPersonExampleMap9798AF994EAEA1B6D1C318A4F7832D7D.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Maps/ThirdPersonExampleMap.umap'
+[2020.01.29-13.59.52:904][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ThirdPersonExampleMap_BuiltData" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.01.29-13.59.52:937][461]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPersonExampleMap_BuiltData0FA281B9448226E9A0875BBA97C357BB.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.01.29-13.59.55:035][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.01.29-13.59.55:902][582]LogSlate: Window 'Save Content' being destroyed
+[2020.01.29-13.59.55:923][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Passage" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Blueprints/Passage.uasset" SILENT=true
+[2020.01.29-13.59.55:951][582]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/Passage2C3BE39148B6BEAB778C1891CDB436A7.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Blueprints/Passage.uasset'
+[2020.01.29-13.59.55:958][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ennemy/Blueprints/StandardEnnemyAI" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Ennemy/Blueprints/StandardEnnemyAI.uasset" SILENT=true
+[2020.01.29-13.59.55:989][582]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/StandardEnnemyAIE064898A42BE14E3F451E6803EFAEA57.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Ennemy/Blueprints/StandardEnnemyAI.uasset'
+[2020.01.29-13.59.55:994][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/ThirdPersonCharacter" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Mannequin/ThirdPersonCharacter.uasset" SILENT=true
+[2020.01.29-13.59.56:002][582]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPersonCharacter5A8ABADE4336545590E24DBA5CD81379.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Mannequin/ThirdPersonCharacter.uasset'
+[2020.01.29-13.59.56:009][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/ThirdPersonCharacter" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/ThirdPersonCharacter.uasset" SILENT=true
+[2020.01.29-13.59.56:256][582]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/ThirdPersonCharacter472358BD4AE5E808C5FBDCB97F8717F5.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/Player/ThirdPersonCharacter.uasset'
+[2020.01.29-13.59.56:262][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Item" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/UI/UI_Item.uasset" SILENT=true
+[2020.01.29-13.59.56:318][582]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/UI_ItemBAF0C7B94EB7300C688DC9B20393C2E2.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/UI/UI_Item.uasset'
+[2020.01.29-13.59.56:323][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_main" FILE="D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/UI/UI_main.uasset" SILENT=true
+[2020.01.29-13.59.56:359][582]LogSavePackage: Moving 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Saved/UI_main5B0D2AC04CA3EE6A50A0788C960434A7.tmp' to 'D:/DUT/Ptut/Projet/ProjetRPG/ProjetRPG_Git 4.23/Content/UI/UI_main.uasset'
+[2020.01.29-13.59.56:516][582]LogSlate: Window 'ProjetRPG_Git - Unreal Editor' being destroyed
+[2020.01.29-13.59.56:517][582]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.29-13.59.56:716][583]Cmd: QUIT_EDITOR
+[2020.01.29-13.59.56:760][583]LogExit: Preparing to exit.
+[2020.01.29-13.59.57:002][583]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.01.29-13.59.57:003][583]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.01.29-13.59.57:003][583]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.01.29-13.59.57:003][583]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.01.29-13.59.57:003][583]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.01.29-13.59.57:003][583]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.01.29-13.59.57:003][583]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.01.29-13.59.57:003][583]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.01.29-13.59.57:003][583]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.01.29-13.59.57:003][583]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.01.29-13.59.57:003][583]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.01.29-13.59.57:004][583]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.01.29-13.59.57:004][583]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.01.29-13.59.57:013][583]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.01.29-13.59.57:023][583]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.01.29-13.59.57:023][583]LogExit: Editor shut down
+[2020.01.29-13.59.57:024][583]LogExit: Transaction tracking system shut down
+[2020.01.29-13.59.57:282][583]LogExit: Object subsystem successfully closed.
+[2020.01.29-13.59.57:310][583]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.01.29-13.59.57:333][583]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (674)
+[2020.01.29-13.59.57:333][583]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (672)
+[2020.01.29-13.59.57:333][583]LogModuleManager: Shutting down and abandoning module StatsViewer (670)
+[2020.01.29-13.59.57:333][583]LogModuleManager: Shutting down and abandoning module MeshBuilder (668)
+[2020.01.29-13.59.57:333][583]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (666)
+[2020.01.29-13.59.57:333][583]LogModuleManager: Shutting down and abandoning module SceneOutliner (664)
+[2020.01.29-13.59.57:333][583]LogModuleManager: Shutting down and abandoning module AddContentDialog (662)
+[2020.01.29-13.59.57:333][583]LogModuleManager: Shutting down and abandoning module WidgetCarousel (661)
+[2020.01.29-13.59.57:333][583]LogModuleManager: Shutting down and abandoning module EditorWidgets (658)
+[2020.01.29-13.59.57:333][583]LogModuleManager: Shutting down and abandoning module CollectionManager (656)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2020.01.29-13.59.57:334][583]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2020.01.29-13.59.57:335][583]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2020.01.29-13.59.57:335][583]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2020.01.29-13.59.57:335][583]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2020.01.29-13.59.57:335][583]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2020.01.29-13.59.57:335][583]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2020.01.29-13.59.57:335][583]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2020.01.29-13.59.57:335][583]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2020.01.29-13.59.57:335][583]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2020.01.29-13.59.57:335][583]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2020.01.29-13.59.57:335][583]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2020.01.29-13.59.58:123][583]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2020.01.29-13.59.58:124][583]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2020.01.29-13.59.58:124][583]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2020.01.29-13.59.58:124][583]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2020.01.29-13.59.58:124][583]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2020.01.29-13.59.58:124][583]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2020.01.29-13.59.58:124][583]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2020.01.29-13.59.58:124][583]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2020.01.29-13.59.58:124][583]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2020.01.29-13.59.58:124][583]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2020.01.29-13.59.58:124][583]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2020.01.29-13.59.58:124][583]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2020.01.29-13.59.58:124][583]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2020.01.29-13.59.58:124][583]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2020.01.29-13.59.58:124][583]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2020.01.29-13.59.58:124][583]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2020.01.29-13.59.58:124][583]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2020.01.29-13.59.58:124][583]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2020.01.29-13.59.58:124][583]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2020.01.29-13.59.58:124][583]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2020.01.29-13.59.58:124][583]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2020.01.29-13.59.58:124][583]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2020.01.29-13.59.58:124][583]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2020.01.29-13.59.58:168][583]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2020.01.29-13.59.58:168][583]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2020.01.29-13.59.58:168][583]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2020.01.29-13.59.58:168][583]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2020.01.29-13.59.58:168][583]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2020.01.29-13.59.58:168][583]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2020.01.29-13.59.58:168][583]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2020.01.29-13.59.58:168][583]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2020.01.29-13.59.58:168][583]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2020.01.29-13.59.58:168][583]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2020.01.29-13.59.58:168][583]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2020.01.29-13.59.58:169][583]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2020.01.29-13.59.58:169][583]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2020.01.29-13.59.58:169][583]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2020.01.29-13.59.58:169][583]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2020.01.29-13.59.58:171][583]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2020.01.29-13.59.58:171][583]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2020.01.29-13.59.58:171][583]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2020.01.29-13.59.58:171][583]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2020.01.29-13.59.58:171][583]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2020.01.29-13.59.58:171][583]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2020.01.29-13.59.58:171][583]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2020.01.29-13.59.58:172][583]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2020.01.29-13.59.58:172][583]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2020.01.29-13.59.58:172][583]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2020.01.29-13.59.58:172][583]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2020.01.29-13.59.58:172][583]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2020.01.29-13.59.58:172][583]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2020.01.29-13.59.58:172][583]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2020.01.29-13.59.58:172][583]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2020.01.29-13.59.58:172][583]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2020.01.29-13.59.58:172][583]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2020.01.29-13.59.58:172][583]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2020.01.29-13.59.58:172][583]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2020.01.29-13.59.58:172][583]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2020.01.29-13.59.58:172][583]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2020.01.29-13.59.58:172][583]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2020.01.29-13.59.58:177][583]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2020.01.29-13.59.58:412][583]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2020.01.29-13.59.58:413][583]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2020.01.29-13.59.58:414][583]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2020.01.29-13.59.58:414][583]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2020.01.29-13.59.58:414][583]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2020.01.29-13.59.58:414][583]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2020.01.29-13.59.58:414][583]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2020.01.29-13.59.58:414][583]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2020.01.29-13.59.58:414][583]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2020.01.29-13.59.58:414][583]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2020.01.29-13.59.58:414][583]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2020.01.29-13.59.58:414][583]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2020.01.29-13.59.58:414][583]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2020.01.29-13.59.58:414][583]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2020.01.29-13.59.58:414][583]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2020.01.29-13.59.58:414][583]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2020.01.29-13.59.58:414][583]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2020.01.29-13.59.58:414][583]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.01.29-13.59.58:414][583]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.01.29-13.59.58:515][583]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.01.29-13.59.58:616][583]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.01.29-13.59.58:616][583]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.01.29-13.59.58:616][583]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.01.29-13.59.58:616][583]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.01.29-13.59.58:616][583]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.01.29-13.59.58:616][583]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.01.29-13.59.58:616][583]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.01.29-13.59.58:616][583]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.01.29-13.59.58:616][583]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.01.29-13.59.58:616][583]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.01.29-13.59.58:616][583]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.01.29-13.59.58:616][583]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.01.29-13.59.58:616][583]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.01.29-13.59.58:616][583]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.01.29-13.59.58:617][583]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.01.29-13.59.58:617][583]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.01.29-13.59.58:617][583]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.01.29-13.59.58:617][583]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.01.29-13.59.58:618][583]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.01.29-13.59.58:619][583]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.01.29-13.59.58:619][583]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.01.29-13.59.58:619][583]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.01.29-13.59.58:619][583]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.01.29-13.59.58:619][583]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.01.29-13.59.58:622][583]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.01.29-13.59.58:622][583]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.01.29-13.59.58:622][583]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.01.29-13.59.58:622][583]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.01.29-13.59.58:622][583]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.01.29-13.59.58:622][583]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.01.29-13.59.58:622][583]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.01.29-13.59.58:622][583]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.01.29-13.59.58:622][583]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.01.29-13.59.58:622][583]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.01.29-13.59.58:622][583]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.01.29-13.59.58:622][583]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.01.29-13.59.58:622][583]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.01.29-13.59.58:622][583]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.01.29-13.59.58:622][583]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.01.29-13.59.58:622][583]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.01.29-13.59.58:622][583]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.01.29-13.59.58:622][583]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.01.29-13.59.58:622][583]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.01.29-13.59.58:622][583]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.01.29-13.59.58:622][583]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.01.29-13.59.58:622][583]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.01.29-13.59.58:622][583]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.01.29-13.59.58:625][583]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.01.29-13.59.58:625][583]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.01.29-13.59.58:625][583]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.01.29-13.59.58:625][583]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.01.29-13.59.58:625][583]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.01.29-13.59.58:625][583]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.01.29-13.59.58:625][583]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.01.29-13.59.58:625][583]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.01.29-13.59.58:625][583]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.01.29-13.59.58:625][583]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.01.29-13.59.58:625][583]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.01.29-13.59.58:625][583]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.01.29-13.59.58:625][583]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.01.29-13.59.58:625][583]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.01.29-13.59.58:625][583]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.01.29-13.59.58:625][583]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.01.29-13.59.58:625][583]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.01.29-13.59.58:682][583]LogDerivedDataCache: Shutdown
+[2020.01.29-13.59.58:682][583]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.01.29-13.59.58:682][583]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.01.29-13.59.58:682][583]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.01.29-13.59.58:683][583]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.01.29-13.59.58:683][583]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.01.29-13.59.58:683][583]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.01.29-13.59.58:683][583]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.01.29-13.59.58:683][583]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.01.29-13.59.58:683][583]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.01.29-13.59.58:683][583]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.01.29-13.59.58:683][583]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.01.29-13.59.58:683][583]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.01.29-13.59.58:683][583]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.01.29-13.59.58:683][583]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.01.29-13.59.58:683][583]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.01.29-13.59.58:683][583]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.01.29-13.59.58:683][583]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.01.29-13.59.58:683][583]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.01.29-13.59.58:684][583]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.01.29-13.59.58:684][583]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.01.29-13.59.58:684][583]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.01.29-13.59.58:684][583]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.01.29-13.59.58:684][583]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.01.29-13.59.58:685][583]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.01.29-13.59.58:685][583]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.01.29-13.59.58:686][583]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.01.29-13.59.58:686][583]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.01.29-13.59.58:692][583]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.01.29-13.59.58:692][583]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.01.29-13.59.58:692][583]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.01.29-13.59.58:692][583]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.01.29-13.59.58:692][583]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.01.29-13.59.58:692][583]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.01.29-13.59.58:692][583]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.01.29-13.59.58:692][583]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.01.29-13.59.58:692][583]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.01.29-13.59.58:692][583]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.01.29-13.59.58:692][583]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.01.29-13.59.58:692][583]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.01.29-13.59.58:692][583]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.01.29-13.59.58:692][583]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.01.29-13.59.58:692][583]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.01.29-13.59.58:692][583]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.01.29-13.59.58:692][583]LogHMD: Freeing OpenVRDLLHandle.
+[2020.01.29-13.59.58:692][583]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.01.29-13.59.58:692][583]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.01.29-13.59.58:692][583]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.01.29-13.59.58:692][583]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.01.29-13.59.58:692][583]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.01.29-13.59.58:693][583]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.01.29-13.59.58:693][583]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.01.29-13.59.58:707][583]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.01.29-13.59.58:707][583]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.01.29-13.59.58:707][583]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B114A6873-4685-AFE5-34C1-DF9FA4F6EF7D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=6fcb16484d219300db5f859830b288e5%7Ccc0894dcd1914aa0a42f89cfa3a35afc%7Cd6cd26f0-5b31-4384-8955-09e3d52dbab1&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.01.29-13.59.58:727][583]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.01.29-13.59.58:728][583]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.01.29-13.59.58:730][583]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.01.29-13.59.58:731][583]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.01.29-13.59.58:731][583]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.01.29-13.59.58:731][583]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.01.29-13.59.58:731][583]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.01.29-13.59.58:731][583]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.01.29-13.59.58:731][583]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.01.29-13.59.58:731][583]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.01.29-13.59.58:732][583]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.01.29-13.59.58:732][583]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.01.29-13.59.58:732][583]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.01.29-13.59.58:732][583]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.01.29-13.59.58:732][583]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.01.29-13.59.58:733][583]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.01.29-13.59.58:733][583]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.01.29-13.59.58:733][583]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.01.29-13.59.58:733][583]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.01.29-13.59.58:733][583]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.01.29-13.59.58:733][583]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.01.29-13.59.58:733][583]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.01.29-13.59.58:733][583]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.01.29-13.59.58:733][583]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.01.29-13.59.58:733][583]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.01.29-13.59.58:733][583]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.01.29-13.59.58:733][583]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.01.29-13.59.58:736][583]LogD3D11RHI: Shutdown
+[2020.01.29-13.59.58:736][583]LogD3D11RHI: CleanupD3DDevice
+[2020.01.29-13.59.58:736][583]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.29-13.59.58:736][583]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.29-13.59.58:736][583]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.01.29-13.59.58:880][583]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.01.29-13.59.58:898][583]LogExit: Exiting.
+[2020.01.29-13.59.59:377][583]Log file closed, 01/29/20 14:59:59
