@@ -551,3 +551,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.20-09.54.03:089][ 11]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
 [2020.02.20-09.54.05:791][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
 [2020.02.20-09.54.09:642][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.20-10.03.04:062][905]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={5BED23A9-455A-B8EB-B733-2999694E6178}
+[2020.02.20-10.04.04:265][ 85]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={66DF3450-4106-665C-CDC9-149FED942A90}
