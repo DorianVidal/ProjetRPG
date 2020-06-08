@@ -8,7 +8,7 @@ Short RPG game created on Unreal Engine 4. All code is available for free. It ma
 
 Have Unreal Engine 4.23 or newer version and run it. There no executable (to heavy for git)
 
-## Autors and members
+## Authors and members
 
 * **Dorian Vidal** _alias_[@DorianVidal](https://github.com/DorianVidal) _(as Project Director, Programmer, Level Designer and 3D Artist)_
 * **Quentin Winnants** _alias_[@Biggu08](https://github.com/Biggu08) _(as Programmer, UI Designer and 3D Environneent Artist)_
